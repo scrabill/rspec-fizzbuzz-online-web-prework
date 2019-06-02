@@ -18,4 +18,4 @@ def fizzbuzz(arg)
   end
 end
 
-fizzbuzz(4)
+fizzbuzz(3)
