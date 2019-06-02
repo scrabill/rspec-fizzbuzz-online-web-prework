@@ -2,8 +2,6 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(arg)
-
-
   if arg % 3 == 0
     return "Fizz"
 
