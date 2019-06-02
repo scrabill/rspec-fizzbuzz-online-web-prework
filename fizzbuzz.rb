@@ -8,4 +8,8 @@ def fizzbuzz(arg)
   elsif arg / 5
      return "Buzz"
 
+  elsif arg / 15
+    return "FizzBuzz".
+
+
 end
