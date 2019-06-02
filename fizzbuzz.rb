@@ -9,7 +9,9 @@ def fizzbuzz(arg)
      return "Buzz"
 
   elsif arg / 15
-    return "FizzBuzz".
+    return "FizzBuzz"
 
-
+  else
+    return nil
+  end
 end
